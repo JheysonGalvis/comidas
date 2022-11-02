@@ -1,0 +1,19 @@
+.titulo-1{
+    color: blueviolet;
+    background-color:red; 
+}
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/it/thumb/2/2a/Sigla_MasterChef_Italia_stagione_4.png/800px-Sigla_MasterChef_Italia_stagione_4.png?20210217153130);
+    background-size: cover;
+}
+.button{
+    background-color: royalblue;
+}
+.button p{
+    color: aliceblue;
+}
+tr{
+    background-color: aquamarine;
+    color: white;
+}
+
